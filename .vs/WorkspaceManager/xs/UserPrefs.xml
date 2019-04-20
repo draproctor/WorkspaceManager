@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E2F13BE6-A519-4C7E-8C40-6D95645DC27D}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkspaceManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.xaml.cs">
+    <Files>
+      <File FileName="App.xaml.cs" Line="14" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkspaceManager" expanded="True">
+            <Node name="WorkspaceManager" expanded="True">
+              <Node name="App.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

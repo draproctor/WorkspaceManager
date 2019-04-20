@@ -1,0 +1,15 @@
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager.deps.json
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager.runtimeconfig.json
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager.runtimeconfig.dev.json
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager.dll
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/WorkspaceManager.pdb
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/CommandLine.dll
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.csprojAssemblyReference.cache
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.csproj.CoreCompileInputs.cache
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.AssemblyInfoInputs.cache
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.AssemblyInfo.cs
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.csproj.CopyComplete
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.dll
+/Users/drproctor/projects/WorkspaceManager/obj/Debug/netcoreapp3.0/WorkspaceManager.pdb
+/Users/drproctor/projects/WorkspaceManager/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
