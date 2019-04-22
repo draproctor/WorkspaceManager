@@ -15,4 +15,4 @@ I'd like to add these features in the future:
 - Support passing arguments to each application that must be launched.
 - Have WorkspaceManager create its own services that run at login for each major OS. No additional setup required.
 - Introduce a UI for editing the JSON.
-  - This may be difficult since .NET Core doesn't quite have the best UI creation yet, though WPF looks promsing.
+  - Turns out that .NET Core will never support WPF or WinForms. Perhaps I need to redesign this platform entirely. Some part of me wants to rewrite the whole thing into an Electron application, another wants to do that but keep the .NET Core application management. We'll see how it goes.
